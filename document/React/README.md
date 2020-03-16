@@ -4,7 +4,7 @@
 
 
 ## 목차
-1. [리액트 입문](document/React/README.md/docs/react_basic.md)
+1. [리액트 입문](./document/React/README.md/docs/react_basic.md)
 2. [리액터 컴포넌트 스타일링하기]()
 3. [To-do list 만들기]()
 4. [API 연동하기]()
