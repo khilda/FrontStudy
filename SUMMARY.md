@@ -1,6 +1,4 @@
 # Summary
-
-# 목차
 - [Javascript](document/Javascript/README.md)  
   - [01.자바스크립트 입문]()
   - [02.유용한 JS문법]()
@@ -41,6 +39,6 @@
   - [02.git 구조]()
   - [03.git 장단점]()
 
-#### 문서 작성 시 참고
+### 문서 작성 시 참고
 * [문서 작성 방법](document/@Rule/문서-작성-방법.md)
 * [마크다운](document/Markdown/docs/101_Markdown-Basics.md)
