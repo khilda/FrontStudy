@@ -26,7 +26,7 @@
   - [19.Caching & Webpack]()
   - [20.Chunk & chunkhash]()
 - [React](document/React/README.md)  
-  - [01.리액트 입문](docs/react_basic.md)
+  - [01.리액트 입문](document/React/README.md/docs/react_basic.md)
   - [02.리액터 컴포넌트 스타일링하기](document/React/README.md/docs/react_basic.md)
   - [03.To-do list 만들기](docs/react_todo.md)
   - [04.API 연동하기](docs/react_api.md)
