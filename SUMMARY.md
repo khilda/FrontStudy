@@ -1,5 +1,5 @@
 # Summary
-- [Javascript](document/Javascript/README.md)  
+- [Javascript](document/javascript/README.md)  
   - [01.자바스크립트 입문]()
   - [02.유용한 JS문법]()
   - [03.비동기 처리 다루기]()
@@ -34,7 +34,7 @@
   - [06.리덕스](docs/06.react_redux.md)
   - [07.리덕스 미들웨어](docs/07.react_redux_middleware.md)
   - [08.리액트 프로젝트에서 타입스크립트 사용하기](docs/08.react_typescript.md)
-- [Git](document/Git/README.md)
+- [Git](document/git/README.md)
   - [01.git이란?]()
   - [02.git 구조]()
   - [03.git 장단점]()
