@@ -4,8 +4,8 @@
 
 
 ## 목차
-1. [리액트 입문](docs/01.react_basic.md)
-2. [리액터 컴포넌트 스타일링하기](docs/02.react_styling.md)
+1. [리액트 입문](./docs/01.react_basic.md)
+2. [리액터 컴포넌트 스타일링하기](./docs/02.react_styling.md)
 3. [To-do list 만들기](docs/03.react_todo.md)
 4. [API 연동하기](docs/04.react_api.md)
 5. [리액트 라우터](docs/05.react_router.md)
